@@ -1,8 +1,3 @@
-## TODO:
-Update this page as you see fit to properly train a future presenter of your content. A past train the trainer repo is included below for your assitance, but feel free to make any changes.
-
-Note: Please make sure to update any links within the markdown so they point to the correct file.
-
 ## How To Use
 
 Welcome,
@@ -22,18 +17,19 @@ code.
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | - [Presentation](presentations.md) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
-| Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
-| Demo Recordings           | - [Data10 - Prequisites](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+| Videos            | - [Full Workshop Presentation](https://marlene_recording) | Example Presetation of this Session |
+| Demos             | - [Demo - Contoso Creative Writer](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
+| Demo Recordings           | - [Contoso Creative Writer - Application DEMO](This_shows_demo_live_-Demo-NoAudio.mp4 ) | Recording of the Demo Live 1 | 
+| Demo Recordings           | - [Contoso Creative Writer - Lab Manual Walk Through](This_showsPrerequisites-NoAudio.mp4) | Recording of the Demo Live 2 | 
+
 
 ## Get Started
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
+| [Slides](#slides) | [Demos](#demos) | [Deployment](#deployment-Preparation) | 
 |-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
+| 15 slides - 13 minutes| 2 demos - 10 minutes | Self paced walk through - 50 minutes
 
 ## Slides
 
@@ -43,27 +39,49 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+0:00 - 2:00   | Meet the instructors 
+2:00 - 8:00  | What are we building?
+8:00 - 18:00 | DEMO and Lab Manual walk through (participant initial set up)
+18:00 - 22:00 | How does the assitant work?
+22:00 - 24:00 | Workshop Goals 
+24:00 - 75:00 | Self paced walk through(50 mins)
 
 ## Deployment / Preparation
 
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
+There are two parts of this lab the participants will need to complete for succesful deployment: 
 
-[Instructions and prerequisites are outlined here](deployment/README.md). 
+1. Pre-requisites, getting Azure Credentials, and launching Github Codepsaces using the instructions in the Skillable Lab Manual
+
+    * This part of the workshop should be completed during the `DEMO and Lab Manual walk through` section of the workshop, after you show a quick demo of what the final deployed app should look like. You can read the [Skillable Lab Manual](LAB_MANUAL.md) for this workshop in this repository but on the day you should open it in the Skillable environment. 
+
+    * The instructor should share their screen and walk through the Skillable Lab Manual Instructions in the Skillable environment and instruct the participants to follow along doing the same on their own machines. 
+
+    * Once the majority of participants have launched their Github Codespace environment you should discuss the `How does the assitant work?` and `Workshop Goals` sections from the slides while the Codespaces loads. 
+
+    * We will not be using the Skillable VM for the workshop but participants will need to get their Azure credentials from the Skillable `Resources` tab. 
+
+    * Skillable will have already provisioned the workshop resources, however participants will be instructed in the lab manual to download an env file with their environment variables in it. (Read the Skillable Lab Manual for Pre-requisites and details.)
+
+2.   Following the self paced instructions in the [contoso-chat-writer](https://github.com/Azure-Samples/contoso-creative-writer) repository
+
+    * Instructions for this part of the workshop will be in the `./docs/workshop` folder of the repository. 
+
+    * Participants should complete this section without need for guidance from the instructors, however please help if a participant is stuck.  
 
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There is:
+    * one pre-recorded video of the completed app 
+    * one pre-recorded app walking through the lab manual instructions (you should walk through the lab instructions yourself with participants but the video is to guide you and in case of technical difficulties). 
+You will actively present these two demos in the workshop during the `DEMO and Lab Manual walk through` section. 
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+We have also included a complete walkthrough of the entire workshop for your convinience. 
+Before the workshop it is important for you to login to skillable and ensure that you are able to follow the instructions in the manual. If not please reach out to the content creators for help.
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
-
+|  [1 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [2 - Contoso Creative Writer - Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [3 - Contoso Creative Writer - Full Workshop Presentation](https://github.com/Azure-Samples/contoso-creative-writer) |        | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+ 
