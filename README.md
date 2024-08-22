@@ -55,14 +55,12 @@ Implement a real world LLM-basedd agent lifecycle
   - Github Actions
 
 ## Additional Resources and Continued Learning
-You can find additional resources, including the slides of the presentation, [here](./SESSION_RESOURCES.md).
-
 If you will present this talk, you can find the [trainer resources here](./train-the-trainer/README.md). 
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| Prompty  | [Learn more](https://prompty.ai) | Learn more about Prompty, a new asset class and format for LLM prompts that aims to provide observability, understandability, and portability for developers |
+| AI for Developers | [Learn more](https://developer.microsoft.com/en-us/ai#ai-solutions) | Learn more about different Microsoft AI tools and services for Developers |
 
 ## Content Owners
 
