@@ -36,7 +36,7 @@ To participate in this workshop, you will need:
 
 ## Get Started
 
-To get started you will need to follow the instructions in the Skillable Lab Manual in the Skillable environment. After following these instructions you should have succesfully launched a Codespace for the [conotoso-creative-writer](https://github.com/Azure-Samples/contoso-creative-writer) repository on your own branch. You can preview the Skillable Lab Manual instructions in this repository by veiwing them [here](./train-the-trainer/LAB_MANUAL.md)
+To get started you will need to follow the instructions in the Skillable Lab Manual in the Skillable environment. After following these instructions you should have succesfully launched a Codespace for the [conotoso-creative-writer](https://github.com/Azure-Samples/contoso-creative-writer) repository on your own branch. You can preview the Skillable Lab Manual instructions in this repository by veiwing them [here](train-the-trainer/LAB_MANUAL.md)
 
 ## Continue the workshop
 
