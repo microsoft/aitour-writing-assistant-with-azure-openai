@@ -15,7 +15,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
+| PowerPoint        | - [Presentation](https://aka.ms/AArxx4v) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
 | Videos            | - [Full Workshop Presentation](https://marlene_recording) | Example Presetation of this Session |
 | Demos             | - [Demo - Contoso Creative Writer](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
