@@ -15,12 +15,12 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](https://aka.ms/AArxx4v) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Full Workshop Presentation](https://marlene_recording) | Example Presetation of this Session |
-| Demos             | - [Demo - Contoso Creative Writer -Code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
-| Demo Recordings           | - [Contoso Creative Writer - Application DEMO](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Contoso Creative Writer - Lab Manual Walk Through](This_showsPrerequisites-NoAudio.mp4) | Recording of the Demo Live 2 | 
+| PowerPoint        | [Presentation - slides](https://aka.ms/AArxx4v) | Slides |
+| PPT Recording     | [Presentation - video](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
+| Videos            | [Full Workshop Presentation - video](https://marlene_recording) | Example Presetation of this Session |
+| Demos             | [Contoso Creative Writer - Code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
+| Demo Recordings           | [Contoso Creative Writer - Application DEMO - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ) | Recording of the Demo Live 1 | 
+| Demo Recordings           | [Contoso Creative Writer - Lab Manual Walk Through - video](This_showsPrerequisites-NoAudio.mp4) | Recording of the Demo Live 2 | 
 
 
 ## Get Started
