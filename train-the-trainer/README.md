@@ -36,18 +36,25 @@ The [Presentation slides](https://aka.ms/AArxx4v) has incomplete presenter notes
 
 You can also watch a video walk through of the PPT slides with the script being read [here](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w). 
 
-Presenting the slides: 
-    - As attendees enter the room have slide 2 up on the screen. (Preferably add Wi-Fi information to this slide.)
-    - Once everyone is seated jump to slide 5, which is the 'Meet the Instructor and Proctors slide." For the sake of time this is the slide you must begin with. Please **edit this slide** with relevant information including:
-        * Lead instructor name and picture
-        * Proctor names and pictures 
-        * Wi-Fi information
-        * Link to Skillable which is [https://aka.ms/skillable-wrk551](https://labondemand.com/LabProfile/171046)
-    - Let the attendees connect to the Wi-Fi and instruct them to navigate to the skillable link and press the `Launch` button. Launching the lab may take some time so start the presentation once 
-    - Slide 10 is a slide that says "DEMO". Once you get to this slide share your screen and:
-        1. Play the [Contoso Creative Writer App demo video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ). You could also deploy the application on your own screen and show that instead. 
-        2. Switch to the Skillable Lab Manual page and complete each step of the instructions with the attendees. They should be carrying out the steps on their own machines at the same time. You can watch a video walk through of this process here:  [Contoso Creative Writer - Skillable lab manual walk through - video](This_showsPrerequisites.mp4). 
-    - Once the lab instructions are completed by the majority of participants come back to the slides and begin on slide 11, "How does the assistant work." 
+### Presenting the slides: 
+
+- As attendees enter the room have `slide 2` up on the screen. (Preferably add Wi-Fi information to this slide.)
+  
+- Once everyone is seated jump to `slide 5`, which is the 'Meet the Instructor and Proctors" slide. For the sake of time this is the slide you must begin with. Please **edit this slide** with relevant information including:
+  
+    * Lead instructor name and picture
+    * Proctor names and pictures 
+    * Wi-Fi information
+    * Link to Skillable which is [https://aka.ms/skillable-wrk551](https://labondemand.com/LabProfile/171046)
+      
+- Let the attendees connect to the Wi-Fi and instruct them to navigate to the skillable link and press the `Launch` button. Launching the lab may take some time so start the presentation once the majority of participants have cliked the launch button. 
+  
+- Slide 10 is the slide that says "DEMO". Once you get to this slide share your screen and:
+  
+    1. Play the [Contoso Creative Writer App demo video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ). You could also deploy the application on your own screen and show that instead. 
+    2. Switch to the Skillable Lab Manual page and complete each step of the instructions with the attendees. They should be carrying out the steps on their own machines at the same time. You can watch a video walk through of this process here:  [Contoso Creative Writer - Skillable lab manual walk through - video](This_showsPrerequisites.mp4).
+       
+- Once the lab instructions are completed by the majority of participants come back to the slides and begin on `slide 11`, "How does the assistant work." You should **stop presenting the slides** and let attendees work on their own once you reach `slide 16` and have discussed the workshop goals. (**Slide 17 is outdated so please do not show this slide**.) 
 
 Overall this section of the workshop, including showing the app demo and completing the lab instructions, should not take a **maximum of 20mins**. The [presenter script](SCRIPT.md) includes time estimates for each section! (Do not use the time estimate from the agenda section in the powerpoint.)
 
@@ -78,11 +85,11 @@ There are two parts of this lab the participants will need to complete for succe
 
     * Skillable will have already provisioned the workshop resources, however participants will be instructed in the lab manual to download an env file with their environment variables in it. (Read the Skillable Lab Manual for Pre-requisites and details.)
 
-2.   Following the self paced instructions in the [contoso-chat-writer](https://github.com/Azure-Samples/contoso-creative-writer) repository
+2.   Following the self paced instructions in the [contoso-chat-writer](https://github.com/Azure-Samples/contoso-creative-writer) repository.
 
-    * Instructions for this part of the workshop will be in the `./docs/workshop` folder of the repository. 
-
-    * Participants should complete this section without need for guidance from the instructors, however please help if a participant is stuck.  
+        * Instructions for this part of the workshop will be in the `./docs/workshop` folder of the repository.
+          
+        * Participants should complete this section without need for guidance from the instructors, however please help if a participant is stuck.  
 
 
 ## Demos
