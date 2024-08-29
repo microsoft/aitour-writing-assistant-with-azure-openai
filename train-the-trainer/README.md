@@ -1,11 +1,10 @@
-## How To Use
+## How To Use 
 
 Welcome,
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
-Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
-code.
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides, demo instructions & code.
 
 1.  Read document in its entirety.
 2.  Watch the video presentation
@@ -16,11 +15,11 @@ code.
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation - slides](https://aka.ms/AArxx4v) | Slides |
-| PPT Recording     | [Presentation - video](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
+| PPT Recording     | [Presentation - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w) | Video Recording of the PowerPoint slides with audio |
 | Videos            | [Full Workshop Presentation - video](https://marlene_recording) | Example Presetation of this Session |
 | Demos             | [Contoso Creative Writer - code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
 | Demo Recordings           | [Contoso Creative Writer - app demo - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ) | Recording of the Demo Live 1 | 
-| Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](This_showsPrerequisites-NoAudio.mp4) | Recording of the Demo Live 2 | 
+| Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](This_showsPrerequisites.mp4) | Recording of the Demo Live 2 | 
 
 
 ## Get Started
@@ -29,11 +28,28 @@ This training repository is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](#demos) | [Deployment](#deployment-Preparation) | 
 |-------------------|---------------------------|--------------------------------------
-| 15 slides - 13 minutes| 2 demos - 10 minutes | Self paced walk through - 50 minutes
+| 12 slides - 8 minutes| 2 demos - 10 minutes | Self paced walk through - 50 minutes
 
 ## Slides
 
-The [slides](presentations.md) have presenter notes in each part of the session
+The [Presentation slides](https://aka.ms/AArxx4v) has incomplete presenter notes. Please use the [Presenter Script](SCRIPT.md) as a guide on what to say for each slide instead. 
+
+You can also watch a video walk through of the PPT slides with the script being read [here](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w). 
+
+Presenting the slides: 
+    - As attendees enter the room have slide 2 up on the screen. (Preferably add Wi-Fi information to this slide.)
+    - Once everyone is seated jump to slide 5, which is the 'Meet the Instructor and Proctors slide." For the sake of time this is the slide you must begin with. Please **edit this slide** with relevant information including:
+        * Lead instructor name and picture
+        * Proctor names and pictures 
+        * Wi-Fi information
+        * Link to Skillable which is [https://aka.ms/skillable-wrk551](https://labondemand.com/LabProfile/171046)
+    - Let the attendees connect to the Wi-Fi and instruct them to navigate to the skillable link and press the `Launch` button. Launching the lab may take some time so start the presentation once 
+    - Slide 10 is a slide that says "DEMO". Once you get to this slide share your screen and:
+        1. Play the [Contoso Creative Writer App demo video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ). You could also deploy the application on your own screen and show that instead. 
+        2. Switch to the Skillable Lab Manual page and complete each step of the instructions with the attendees. They should be carrying out the steps on their own machines at the same time. You can watch a video walk through of this process here:  [Contoso Creative Writer - Skillable lab manual walk through - video](This_showsPrerequisites.mp4). 
+    - Once the lab instructions are completed by the majority of participants come back to the slides and begin on slide 11, "How does the assistant work." 
+
+Overall this section of the workshop, including showing the app demo and completing the lab instructions, should not take a **maximum of 20mins**. The [presenter script](SCRIPT.md) includes time estimates for each section! (Do not use the time estimate from the agenda section in the powerpoint.)
 
 ### Timing
 
@@ -81,7 +97,9 @@ Before the workshop it is important for you to login to skillable and ensure tha
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB) |
-|  [2 - Contoso Creative Writer - Skillable Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [1 - PPT Presentation Recording](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w) | 9mins       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w) |
+|  [2 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://github.com/Azure-Samples/contoso-creative-writer) |
+|  [3 - Contoso Creative Writer - Skillable Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://globaleventcdn.mp4) |
 |  [3 - Contoso Creative Writer - Full Workshop Presentation](https://github.com/Azure-Samples/contoso-creative-writer) |        | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+
  
