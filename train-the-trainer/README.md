@@ -18,8 +18,8 @@ code.
 | PowerPoint        | - [Presentation](https://aka.ms/AArxx4v) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
 | Videos            | - [Full Workshop Presentation](https://marlene_recording) | Example Presetation of this Session |
-| Demos             | - [Demo - Contoso Creative Writer](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
-| Demo Recordings           | - [Contoso Creative Writer - Application DEMO](This_shows_demo_live_-Demo-NoAudio.mp4 ) | Recording of the Demo Live 1 | 
+| Demos             | - [Demo - Contoso Creative Writer -Code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
+| Demo Recordings           | - [Contoso Creative Writer - Application DEMO](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ) | Recording of the Demo Live 1 | 
 | Demo Recordings           | - [Contoso Creative Writer - Lab Manual Walk Through](This_showsPrerequisites-NoAudio.mp4) | Recording of the Demo Live 2 | 
 
 
@@ -81,7 +81,7 @@ Before the workshop it is important for you to login to skillable and ensure tha
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [1 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB) |
 |  [2 - Contoso Creative Writer - Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
 |  [3 - Contoso Creative Writer - Full Workshop Presentation](https://github.com/Azure-Samples/contoso-creative-writer) |        | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
  
