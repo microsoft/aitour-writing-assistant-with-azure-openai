@@ -15,10 +15,10 @@ Along with the video of the presentation, this document will link to all the ass
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation - slides](https://aka.ms/AArxx4v) | Slides |
-| PPT Recording     | [Presentation - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w) | Video Recording of the PowerPoint slides with audio |
-| Videos            | [Full Workshop Presentation - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EUJWupuJWoJFjdghJmYbqvYBRJ767qT_BavoM3ks2L4RqQ?e=KHoDfP) | Example Presetation of this Session |
+| PPT Recording     | [Presentation - video](https://aka.ms/AAs4l8x) | Video Recording of the PowerPoint slides with audio |
+| Videos            | [Full Workshop Presentation - video](https://aka.ms/AAs50ni) | Example Presetation of this Session |
 | Demos             | [Contoso Creative Writer - code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
-| Demo Recordings           | [Contoso Creative Writer - app demo - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ) | Recording of the Demo Live 1 | 
+| Demo Recordings           | [Contoso Creative Writer - app demo - video](https://aka.ms/AAs4t0n) | Recording of the Demo Live 1 | 
 | Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/ERnYuMS_ZAxMslEipbzS5AwB4mPVRREWiAzG51kkf2cVEg?e=aGLtmq) | Recording of the Demo Live 2 | 
 
 
