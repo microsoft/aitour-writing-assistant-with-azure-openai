@@ -34,7 +34,7 @@ This training repository is divided in to the following sections:
 
 The [Presentation slides](https://aka.ms/AArxx4v) has incomplete presenter notes. Please use the [Presenter Script](SCRIPT.md) as a guide on what to say for each slide instead. 
 
-You can also watch a video walk through of the PPT slides with the script being read [here](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w). 
+You can also watch a video walk through of the PPT slides with the script being read [here](https://aka.ms/AAs4l8x). 
 
 ### Presenting the slides: 
 
@@ -51,7 +51,7 @@ You can also watch a video walk through of the PPT slides with the script being 
   
 - Slide 10 is the slide that says "DEMO". Once you get to this slide share your screen and:
   
-    1. Play the [Contoso Creative Writer App demo video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/Ecryff-J5pdIvkPEmDjCVRABvORXWvO6dX7yHPisSCVS0w?e=CeskSB ). You could also deploy the application on your own screen and show that instead. 
+    1. Play the [Contoso Creative Writer App demo video](https://aka.ms/AAs4t0n). You could also deploy the application on your own screen and show that instead. 
     2. Switch to the Skillable Lab Manual page and complete each step of the instructions with the attendees. They should be carrying out the steps on their own machines at the same time. You can watch a video walk through of this process here:  [Contoso Creative Writer - Skillable lab manual walk through - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/ERnYuMS_ZAxMslEipbzS5AwB4mPVRREWiAzG51kkf2cVEg?e=aGLtmq).
        
 - Once the lab instructions are completed by the majority of participants come back to the slides and begin on `slide 11`, "How does the assistant work." You should **stop presenting the slides** and let attendees work on their own once you reach `slide 16` and have discussed the workshop goals. (**Slide 17 is outdated so please do not show this slide**.) 
@@ -104,9 +104,9 @@ Before the workshop it is important for you to login to skillable and ensure tha
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - PPT Presentation Recording](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w) | 9mins       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EeRakQoGGvJEiplsCiH39DsBdLhomjkXkxBPQzct9WhozA?e=0lYV7w) |
+|  [1 - PPT Presentation Recording](https://aka.ms/AAs4l8x) | 9mins       | [Link](https://aka.ms/AAs4l8x) |
 |  [2 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://github.com/Azure-Samples/contoso-creative-writer) |
 |  [3 - Contoso Creative Writer - Skillable Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/ERnYuMS_ZAxMslEipbzS5AwB4mPVRREWiAzG51kkf2cVEg?e=aGLtmq) |
-|  [3 - Contoso Creative Writer - Full Workshop Presentation](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EUJWupuJWoJFjdghJmYbqvYBRJ767qT_BavoM3ks2L4RqQ?e=KHoDfP) | 20       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EUJWupuJWoJFjdghJmYbqvYBRJ767qT_BavoM3ks2L4RqQ?e=KHoDfP) |
+|  [3 - Contoso Creative Writer - Full Workshop Presentation](https://aka.ms/AAs50ni) | 20       | [Link](https://aka.ms/AAs50ni) |
 
  
