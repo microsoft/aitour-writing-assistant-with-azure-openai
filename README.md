@@ -47,7 +47,7 @@ Implement a real world LLM-basedd agent lifecycle
   - Github Actions
 
 ## Additional Resources and Continued Learning
-If you will present this talk, you can find the [trainer resources here](./train-the-trainer/README.md). 
+If you will present this talk, you can find the [session presenter resources here](./session-delivery-resources/README.md). 
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
