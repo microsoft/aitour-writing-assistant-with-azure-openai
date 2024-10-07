@@ -19,7 +19,7 @@ Along with the video of the presentation, this document will link to all the ass
 | Videos            | [Full Workshop Presentation - video](https://aka.ms/AAs50ni) | Example Presetation of this Session |
 | Demos             | [Contoso Creative Writer - code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
 | Demo Recordings           | [Contoso Creative Writer - app demo - video](https://aka.ms/AAs4t0n) | Recording of the Demo Live 1 | 
-| Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/ERnYuMS_ZAxMslEipbzS5AwB4mPVRREWiAzG51kkf2cVEg?e=aGLtmq) | Recording of the Demo Live 2 | 
+| Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](https://aka.ms/AAs9str) | Recording of the Demo Live 2 | 
 
 
 ## Get Started
