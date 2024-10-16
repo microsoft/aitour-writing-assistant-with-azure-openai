@@ -21,14 +21,27 @@ Along with the video of the presentation, this document will link to all the ass
 | Demo Recordings           | [Contoso Creative Writer - app demo - video](https://aka.ms/AAs4t0n) | Recording of the Demo Live 1 | 
 | Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](https://aka.ms/AAs9str) | Recording of the Demo Live 2 | 
 
-
 ## Get Started
+
+This lab is intended to be delivered by a Presenter who will show the slides and demos and answer questions for the class, supported
+by one or more Proctors who will provide individual assistant to participants during the lab.
 
 This training repository is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](#demos) | [Deployment](#deployment-Preparation) | 
 |-------------------|---------------------------|--------------------------------------
 | 12 slides - 8 minutes| 2 demos - 10 minutes | Self paced walk through - 50 minutes
+
+### Timing
+
+| Time        | Description 
+--------------|-------------
+0:00 - 2:00   | Meet the instructors 
+2:00 - 8:00  | What are we building?
+8:00 - 18:00 | DEMO and Lab Manual walk through (participant initial set up)
+18:00 - 22:00 | How does the assitant work?
+22:00 - 24:00 | Workshop Goals 
+24:00 - 75:00 | Self paced walk through(50 mins)
 
 ## Slides
 
@@ -45,7 +58,7 @@ You can also watch a video walk through of the PPT slides with the script being 
     * Lead instructor name and picture
     * Proctor names and pictures 
     * Wi-Fi information
-    * Link to Skillable which is [https://aka.ms/skillable-wrk551](https://labondemand.com/LabProfile/171046)
+    * Link to to launch Participant Lab Environment (provided by Skillable team)
       
 - Let the attendees connect to the Wi-Fi and instruct them to navigate to the skillable link and press the `Launch` button. Launching the lab may take some time so start the presentation once the majority of participants have cliked the launch button. 
   
@@ -58,16 +71,25 @@ You can also watch a video walk through of the PPT slides with the script being 
 
 Overall this section of the workshop, including showing the app demo and completing the lab instructions, should not take a **maximum of 20mins**. The [presenter script](SCRIPT.md) includes time estimates for each section! (Do not use the time estimate from the agenda section in the powerpoint.)
 
-### Timing
+### Launching the lab environment
 
-| Time        | Description 
---------------|-------------
-0:00 - 2:00   | Meet the instructors 
-2:00 - 8:00  | What are we building?
-8:00 - 18:00 | DEMO and Lab Manual walk through (participant initial set up)
-18:00 - 22:00 | How does the assitant work?
-22:00 - 24:00 | Workshop Goals 
-24:00 - 75:00 | Self paced walk through(50 mins)
+When this lab is delivered during AI Tour, the [Skillable](https://docs.skillable.com/) platform provides a temporary Azure
+account for each participant to use. After logging in, the environment provides a set of Lab Instructions, the launching point for
+the lab content.
+
+Depending on your role in the workshop, you will launch the Skillable lab environment using a dedicated link.
+
+* **[Lab authors](https://labondemand.com/LabProfile/171046)**: This link is used by authors and maintainers of the lab content.
+  You must log in using your Microsoft corporate credentils to access this link.
+  **Note**: the lab environment will appear in 2-3 minutes,
+  but you must wait up to 30 minutes more for Azure resources to deploy to the temporary Azure account
+  before running the workshop.
+  Log into the [Azure portal](https://portal.azure.com) using the credentials in the Lab Instructions to monitor progress. In the
+  single resource group created, you 14 Azure resource when the 34 deployments are complete. 
+* **Presenters and Proctors**: Launch Lab WRK551 from the Tech Check portal. (This link will be provided by your content owner 1-2
+  weeks before lab events.) Use this link to test the lab using an environment identical to that provded to lab participants.
+* **Partcipants**. Use the participant link provided by your lab presenter. Note: participant lab environments will only be
+  active 15 minutes before through 30 minutes after the scheduled lab time.
 
 ## Deployment / Preparation
 
