@@ -19,7 +19,7 @@ Along with the video of the presentation, this document will link to all the ass
 | Videos            | [Full Workshop Presentation - video](https://aka.ms/AAs50ni) | Example Presetation of this Session |
 | Demos             | [Contoso Creative Writer - code](https://github.com/Azure-Samples/contoso-creative-writer) | The Source Code | 
 | Demo Recordings           | [Contoso Creative Writer - app demo - video](https://aka.ms/AAs4t0n) | Recording of the Demo Live 1 | 
-| Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](https://aka.ms/AAs9str) | Recording of the Demo Live 2 | 
+| Demo Recordings           | [Contoso Creative Writer - Skillable lab manual walk through - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EWW5434JuPpMlP9O5XPsFV8Bqdz6a2LOk08xyJYqFEbBnA?e=of8G3N) | Recording of the Demo Live 2 | 
 
 ## Get Started
 
@@ -65,7 +65,7 @@ You can also watch a video walk through of the PPT slides with the script being 
 - Slide 10 is the slide that says "DEMO". Once you get to this slide share your screen and:
   
     1. Play the [Contoso Creative Writer App demo video](https://aka.ms/AAs4t0n). You could also deploy the application on your own screen and show that instead. 
-    2. Switch to the Skillable Lab Manual page and complete each step of the instructions with the attendees. They should be carrying out the steps on their own machines at the same time. You can watch a video walk through of this process here:  [Contoso Creative Writer - Skillable lab manual walk through - video](https://aka.ms/AAs9str).
+    2. Switch to the Skillable Lab Manual page and complete each step of the instructions with the attendees. They should be carrying out the steps on their own machines at the same time. You can watch a video walk through of this process here:  [Contoso Creative Writer - Skillable lab manual walk through - video](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EWW5434JuPpMlP9O5XPsFV8Bqdz6a2LOk08xyJYqFEbBnA?e=of8G3N). 
        
 - Once the lab instructions are completed by the majority of participants come back to the slides and begin on `slide 11`, "How does the assistant work." You should **stop presenting the slides** and let attendees work on their own once you reach `slide 16` and have discussed the workshop goals. (**Slide 17 is outdated so please do not show this slide**.) 
 
@@ -128,7 +128,7 @@ Before the workshop it is important for you to login to skillable and ensure tha
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
 |  [1 - PPT Presentation Recording](https://aka.ms/AAs4l8x) | 9mins       | [Link](https://aka.ms/AAs4l8x) |
 |  [2 - Contoso Creative Writer - Application DEMO](https://github.com/Azure-Samples/contoso-creative-writer) | 2       | [Link](https://github.com/Azure-Samples/contoso-creative-writer) |
-|  [3 - Contoso Creative Writer - Skillable Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://aka.ms/AAs9str) |
+|  [3 - Contoso Creative Writer - Skillable Lab Manual Walk Through](LAB_MANUAL.md) | 8       | [Link](https://microsoft.sharepoint.com/:v:/t/AI-Tour-FY25/EWW5434JuPpMlP9O5XPsFV8Bqdz6a2LOk08xyJYqFEbBnA?e=of8G3N) |
 |  [3 - Contoso Creative Writer - Full Workshop Presentation](https://aka.ms/AAs50ni) | 20       | [Link](https://aka.ms/AAs50ni) |
 
  
