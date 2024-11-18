@@ -58,8 +58,7 @@ To participate in this workshop, you will need:
     > **🚧 IMPORTANT**: Do not open the GitHub Codespace on a fork of the repository, this would prevent you from using the prebuilt Codespace container image. Don't worry, you'll have the possibility to fork the repository later.
 
 4. Once your Codespace is ready:
-    * In the file explorer look for the **docs** folder and in it open the **workshop** folder. 
-    * Open the **WORKSHOP-README.md** file. (There are other Readme files in the folder,specifically open the workshop one.)
+    * In the file explorer, look for and open the [**docs/workshop/WORKSHOP-README.md**](https://github.com/Azure-Samples/contoso-creative-writer/blob/main/docs/workshop/WORKSHOP-README.md) file. (There are other Readme files in the folder, specifically open the workshop one.)
     * Follow the instructions to get going!
     * When following the steps to login to AZD and AZ in Part 1 of this file, use the [azure credentials](#azure-credentials) at the top of the Skillable manual to login.
 
